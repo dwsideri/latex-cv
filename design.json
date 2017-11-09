@@ -1,0 +1,33 @@
+{
+    "Publications":{"label":"Publications", "file":"publications.tex", "number":5},
+    "Books":{"label":"Books", "file":"books.tex", "number":"all"},
+    "TechnicalReports":{"label":"Technical Reports", "file":"technicalreports.tex", "number":"all"},
+
+    "Presentations":{"label":"Conference Presentations", "file":"presentations.tex", "number":5},
+    "Seminars":{"label":"Invited Seminars", "file":"seminars.tex", "number":"all"},
+    "Posters":{"label":"Select Poster Presentations", "file":"posters.tex", "number":10},
+    "OtherPresentations":{"label":"Other Presentations", "file":"otherpresentations.tex", "number":5},
+
+    "Proposals":{"label":"Proposals", "file":"proposals.tex", "number":"all"},
+
+    "Honors":{"label":"Honors and Awards", "file":"honors.tex", "number":"all"},
+
+    "IP":{"label":"Intellectual Property", "file":"IP.tex", "number":"all"},
+
+    "Civics":{"label":"Civic Participation", "file":"civics.tex", "number":"all"},
+
+    "ContinuingEd":{"label":"Continuing Education", "file":"continuinged.tex", "number":"all"},
+    
+    "Sequence": ["Publications",
+		 "Books",
+		 "TechnicalReports",
+		 "Presentations",
+		 "Seminars",
+		 "Posters",
+		 "OtherPresentations",
+		 "Proposals",
+		 "Honors",
+		 "IP",
+		 "ContinuingEd"
+		]
+}
