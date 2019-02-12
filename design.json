@@ -1,12 +1,11 @@
 {
-    "Publications":{"label":"Publications", "file":"publications.tex", "number":5},
+    "Publications":{"label":"Publications", "file":"publications.tex", "number":"all"},
     "Books":{"label":"Books", "file":"books.tex", "number":"all"},
     "TechnicalReports":{"label":"Technical Reports", "file":"technicalreports.tex", "number":"all"},
 
-    "Presentations":{"label":"Conference Presentations", "file":"presentations.tex", "number":5},
-    "Seminars":{"label":"Invited Seminars", "file":"seminars.tex", "number":"all"},
+    "Presentations":{"label":"Conference Presentations", "type":"JSON", "file":"presentations.json", "number":"all"},
+    "Seminars":{"label":"Invited Seminars", "type":"JSON", "file":"seminars.json", "number":"all"},
     "Posters":{"label":"Select Poster Presentations", "file":"posters.tex", "number":10},
-    "OtherPresentations":{"label":"Other Presentations", "file":"otherpresentations.tex", "number":5},
 
     "Proposals":{"label":"Proposals", "file":"proposals.tex", "number":"all"},
 
@@ -24,7 +23,6 @@
 		 "Presentations",
 		 "Seminars",
 		 "Posters",
-		 "OtherPresentations",
 		 "Proposals",
 		 "Honors",
 		 "IP",
