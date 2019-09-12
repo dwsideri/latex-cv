@@ -1,4 +1,39 @@
 [
+    {
+     "authors": ["W. Wong-Ng", "G. {McCAndless}", "J.~T. Culp", "Y.~S. Chen", "D.~W. Siderius", "M. Lawson", "L. Li"],
+     "speaker": 1,
+	"title2": "Flexible Metal-Organic Framework (MOF), NiL[Ni(CN)$_4$]$_\\rm{n}$, L=Azo-pyridine (C$_10$N$_4$H$_8$)",
+	"title": "FIX THIS TITLE",
+     "year": 2019,
+     "conference": "Material Science \\& Technology Technical Meeting",
+     "address": "Portland, Oregon",
+     "projects": ["mol_sim_ads"],
+     "invited": false,
+     "number": 59
+    },
+   
+    {"authors": [ "D.~W. Siderius", "W.~P. Krekelberg", "W-S. Chiang", "Y. Liu", "V. K. Shen" ],
+     "speaker": 1,
+     "title": "Quasi-2D Phase Transition of Methane Adsorbed in Cylindrical Silica Mesopores",
+     "year": 2019,
+     "conference": "International Conference on Fundamentals of Adsorption",
+     "address": "Cairns, Australia",
+     "projects": ["mol_sim_ads"],
+     "invited": true,
+     "number":58
+    },
+
+    {"authors": ["H.~W. Hatch", "D.~W. Siderius", "V.~K. Shen"],
+     "speaker": 1,
+     "title": "Improving reproducibility of molecular simulations with reference data and open source software",
+     "year": 2019,
+     "conference": "ACS National Meeting",
+     "address": "Orlando, Florida",
+     "projects": ["mol_sim_ads", "sim_std", "policy"],
+     "invited": true,
+     "number": 57
+    },
+
     {"authors": [ "D.~W. Siderius", "W.~P. Krekelberg", "W-S. Chiang", "Y. Liu", "V. K. Shen" ],
      "speaker": 1,
      "title": "Quasi-2D Phase Transition of Methane Adsorbed in Cylindrical Silica Mesopores",
@@ -346,7 +381,7 @@
      "speaker": 1,
      "title": "Modeling Adsorption in Complex Structures: Use of Finely-Discretized Lattice-Gas DFT to Study the Effects of Pore Shape and Surface Roughness On Adsorption of Simple Gases",
      "year": 2010,
-     "conference": "Modeling Adsorption in Complex Structures: Use of Finely-Discretized Lattice-Gas DFT to Study the Effects of Pore Shape and Surface Roughness On Adsorption of Simple Gases",
+     "conference": "International Conference on Fundamentals of Adsorption",
      "address": "Awaji, Japan",
      "project": ["lattice_dft","mol_sim_ads"],
      "invited": false,

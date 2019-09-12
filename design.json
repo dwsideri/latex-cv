@@ -1,5 +1,5 @@
 {
-    "Publications":{"label":"Publications", "file":"publications.tex", "number":"all"},
+    "Publications":{"label":"Publications", "file":"publications.bib", "type":"BibTeX", "number":"all"},
     "Books":{"label":"Books", "file":"books.tex", "number":"all"},
     "TechnicalReports":{"label":"Technical Reports", "file":"technicalreports.tex", "number":"all"},
 
@@ -26,6 +26,7 @@
 		 "Proposals",
 		 "Honors",
 		 "IP",
+                 "Civics",
 		 "ContinuingEd"
 		]
 }
