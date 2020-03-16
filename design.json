@@ -16,6 +16,12 @@
     "Civics":{"label":"Civic Participation", "file":"civics.tex", "number":"all"},
 
     "ContinuingEd":{"label":"Continuing Education", "file":"continuinged.tex", "number":"all"},
+
+    "ContactInformation": {
+	"Address": ["4525 Monrovia Blvd","Monrovia, Maryland 21770"],
+        "Phone": "314-956-7866",
+	"Email": "dwsideri@gmail.com"
+    },
     
     "Sequence": ["Publications",
 		 "Books",
