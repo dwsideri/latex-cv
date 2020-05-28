@@ -3,7 +3,7 @@
      "speaker": 1,
      "title": "Tutorial on Transition-matrix Monte Carlo: An efficient tool for studying phase coexistence in bulk and confined fluids",
      "year": "26 August 2015",
-     "institution": "US Naval Research Laboratory",
+     "conference": "US Naval Research Laboratory",
      "address": "Washington, District of Columbia"
     },
 
@@ -11,7 +11,7 @@
      "speaker": 1,
      "title": "Use of the Transition Matrix Monte Carlo Simulation Method to Study Metastability and Phase Transitions In Gas Adsorption Processes",
      "year": "24 October 2011",
-     "institution": "George Mason University",
+     "conference": "George Mason University",
      "address": "Fairfax, Virginia"
     },
 
@@ -19,8 +19,8 @@
      "speaker": 1,
      "title": "Force between a Colloid and a Wall via Inhomogeneous Scaled Particle Theory",
      "year": "30 October 2004",
-     "institution": "George Mason University",
-     "address": "Fairfax, Virginia"
+     "conference": "Owens-Corning Corporation",
+     "address": "Newark, Ohio"
     }
 
 ]
