@@ -17,6 +17,8 @@
 
     "ContinuingEd":{"label":"Continuing Education", "file":"continuinged.tex", "number":"all"},
 
+    "name": {"given": "Daniel", "middle": "William", "family": "Siderius"},
+
     "ContactInformation": {
 	"Address": ["4525 Monrovia Blvd","Monrovia, Maryland 21770"],
         "Phone": "314-956-7866",
