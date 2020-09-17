@@ -1,13 +1,61 @@
 [
     {
-     "authors": ["W. Wong-Ng", "G. {McCAndless}", "J.~T. Culp", "Y.~S. Chen", "D.~W. Siderius", "M. Lawson", "L. Li"],
+	"authors": ["W. Wong-Ng", "J. Culp", "Y. Chen", "S.~Y. Wang", "D.~W. Siderius", "A. Allen", "E. Cockayne"],
+     "speaker": 1,
+        "title": "Synchrotron Structure and Sorption Properties of a Metal Organic Framework Compound Ni(3-methyl-4,4’-bipyridine)[Ni(CN)4] for CO2  Mitigation Application",
+     "Year": 2020,
+     "conference": "Material Science \\& Technology Technical Meeting",
+     "address": "Pittsburgh, Pennsylvania"
+     "projects": [""],
+     "invited": false,
+     "number": 63
+    },
+
+    {
+	"authors": ["L. Cook", "G.~A. Brewer", "D.~W. Siderius", "W. Wong-Ng"],
+     "speaker": 1,
+        "title": "Porous Crystalline Porphyrinic Structures for Functional Materials Applications",
+     "year": 2020,
+     "conference": "Material Science \\& Technology Technical Meeting",
+     "address": "Pittsburgh, Pennsylvania"
+     "projects": [""],
+     "invited": false,
+     "number": 62
+    },
+
+    {
+     "authors": ["L. Cook", "G.~A. Brewer", "D.~W. Siderius", "W. Wong-Ng"],
+     "speaker": 1,
+        "title": "Spatial Analysis of Crystallographically Controlled Voids in Porous Crystalline Porphyrins",
+     "year": 2020,
+     "conference": "Denver X-Ray Conference",
+     "address": "Denver, Colorado"
+     "projects": [""],
+     "invited": false,
+     "number": 61
+    },
+
+    {
+	"authors": ["C. Rzepa", "D.~W. Siderius", "H.~W. Hatch", "V.~K. Shen", "S. Rangarajan", "J. Mittal"],
+	"speaker": 1,
+	"title": "Quantification of the Thermodynamic Effects Regarding Alkane Adsorption within ZSM-5 Using Advanced Sampling Grand Canonical Monte Carlo Simulations",
+	"year": 2019,
+	"conference": "AIChE Annual Meeting",
+	"Address" "Orlando, Florida",
+	"projects": [""],
+	"invited": false,
+	"number": 60
+    },
+
+    {
+	"authors": ["W. Wong-Ng", "G. {McCAndless}", "J.~T. Culp", "Y.~S. Chen", "D.~W. Siderius", "M. Lawson", "L. Li"],
      "speaker": 1,
 	"title2": "Flexible Metal-Organic Framework (MOF), NiL[Ni(CN)$_4$]$_\\rm{n}$, L=Azo-pyridine (C$_10$N$_4$H$_8$)",
 	"title": "FIX THIS TITLE",
      "year": 2019,
      "conference": "Material Science \\& Technology Technical Meeting",
      "address": "Portland, Oregon",
-     "projects": ["mol_sim_ads"],
+     "projects": [""],
      "invited": false,
      "number": 59
     },
@@ -29,7 +77,7 @@
      "year": 2019,
      "conference": "ACS National Meeting",
      "address": "Orlando, Florida",
-     "projects": ["mol_sim_ads", "sim_std", "policy"],
+     "projects": ["sim_std", "policy"],
      "invited": true,
      "number": 57
     },
