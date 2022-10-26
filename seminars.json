@@ -1,4 +1,30 @@
 [
+    { "authors": [ "D.~W. Siderius"],
+      "speaker": 1,
+      "title": "Quasi-2D Phase Transition of Methane Adsorbed in Cylindrical Silica Mesopores",
+      "year": "20 October 2022",
+      "conference": "University of South Carolina, Department of Chemical Engineering",
+      "address": "Columbia, South Carolina"
+    },
+    
+    {
+        "authors": ["D.~W. Siderius", "V.~K. Shen", "R.~D. Johnson III", "R.~D. van Zee"],
+        "speaker": 1,
+        "title": "NIST Data Resources for Adsorption",
+        "year": "17 May 2022",
+        "conference": "3P Adsorption Week: Meeting on Adsorption \\& Characterization of Porous Solids",
+        "address": "Leipzig, Germany (Virtual)"
+    },
+
+    {
+	"authors": ["D.~W. Siderius", "V.~K. Shen", "R.~D. Johnson III", "R.~D. van Zee"],
+	"speaker": 1,
+	"title": "NIST Data Resources for Adsorption",
+	"year": "12 April 2021",
+	"conference": "International Adsorption Society Webinar Series",
+	"address": "Virtual"
+    },
+           
     {"authors": [ "D.~W. Siderius", "V.~K. Shen" ],
      "speaker": 1,
      "title": "Tutorial on Transition-matrix Monte Carlo: An efficient tool for studying phase coexistence in bulk and confined fluids",
